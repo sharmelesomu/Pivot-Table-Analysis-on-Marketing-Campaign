@@ -12,18 +12,18 @@ This project focuses on analyzing marketing campaigns using pivot tables in Micr
   
 **Dataset Description**
 The dataset includes detailed information about marketing campaigns:
-Campaign_ID: Unique identifier for each campaign.
-Campaign_start_Timestamp and Campaign_end_Timestamp: Start and end dates of campaigns.
-Campaign_Days: Duration of the campaign.
-Channel: The platform or medium where the campaign was run (e.g., social media, email, etc.).
-Impressions: Number of times the ad was shown.
-No_of_clicks: Number of clicks received.
-Campaign_type: Type of campaign (e.g., awareness, engagement).
-Campaign_format: Format of the campaign (image, video, text).
-Campaign_target_location: Targeted geographic location.
-Campaign_target_age_group: Targeted age demographic.
-Campaign_budget: Total allocated budget.
-Campaign_spend: Actual amount spent on the campaign.
+- Campaign_ID: Unique identifier for each campaign.
+- Campaign_start_Timestamp and Campaign_end_Timestamp: Start and end dates of campaigns.
+- Campaign_Days: Duration of the campaign.
+- Channel: The platform or medium where the campaign was run (e.g., social media, email, etc.).
+- Impressions: Number of times the ad was shown.
+- No_of_clicks: Number of clicks received.
+- Campaign_type: Type of campaign (e.g., awareness, engagement).
+- Campaign_format: Format of the campaign (image, video, text).
+- Campaign_target_location: Targeted geographic location.
+- Campaign_target_age_group: Targeted age demographic.
+- Campaign_budget: Total allocated budget.
+- Campaign_spend: Actual amount spent on the campaign.
 
 **Key Insights**
 The pivot table analysis provides insights into:
